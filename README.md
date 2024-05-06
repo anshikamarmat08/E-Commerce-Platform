@@ -1,1 +1,1 @@
-# Using Spring Boot for Backend and MySQl database
+# Using Spring Boot for Backend and MySQL database
